@@ -1,0 +1,429 @@
+X,Region,Country,Code,Sex,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020
+1,South Asia,Afghanistan,AFG,Female,2.19, , , ,3.33, ,10.11, , ,14.03, , ,16.77
+2,South Asia,Afghanistan,AFG,Male,2.65, , , ,1.36, ,7.2, , ,10.37, , ,10.45
+27,Europe & Central Asia,Albania,ALB,Female,13.72,15.64,15.84,13.75,11.49,13.44,15.52,17.12,14.47,12.5,11.88,11.32, 
+28,Europe & Central Asia,Albania,ALB,Male,12.52,12.14,12.73,13.27,14.81,17.76,19.91,17.25,16.14,14.44,12.63,11.58, 
+53,Middle East & North Africa,Algeria,DZA,Female, ,18.1,19.1, ,16.99,16.3,15.58,16.57,18.25,26.23, , , 
+54,Middle East & North Africa,Algeria,DZA,Male, ,8.57,8.11, ,9.56,8.3,8.96,9.92,8.18,10.77, , , 
+79,East Asia & Pacific,American Samoa,ASM,Female, , , , , , , , , , , , , 
+80,East Asia & Pacific,American Samoa,ASM,Male, , , , , , , , , , , , , 
+105,Europe & Central Asia,Andorra,AND,Female, , , , , , , , , , , , , 
+106,Europe & Central Asia,Andorra,AND,Male, , , , , , , , , , , , , 
+131,Sub-Saharan Africa,Angola,AGO,Female, ,2.82,10.87,7.71, , ,9.1, , , , , , 
+132,Sub-Saharan Africa,Angola,AGO,Male, ,4.67,7.91,7, , ,9.96, , , , , , 
+157,Latin America & Caribbean,Antigua and Barbuda,ATG,Female, , , , , , , , , , , , , 
+158,Latin America & Caribbean,Antigua and Barbuda,ATG,Male, , , , , , , , , , , , , 
+183,Latin America & Caribbean,Argentina,ARG,Female,9.68,9.83,9.17,8.49,8.79,8.46,8.36, , ,9.45,10.51,10.69,12.35999966
+184,Latin America & Caribbean,Argentina,ARG,Male,6.47,7.76,6.65,6.24,6.06,6.1,6.47, , ,7.51,8.2,9.18,10.75
+209,Europe & Central Asia,Armenia,ARM,Female,25.86,19.67,21.23,19.61,18.15,18.07,19.38,19.23,17.49,17.48,20.43,19.31, 
+210,Europe & Central Asia,Armenia,ARM,Male,20.47,17.34,17.04,17.33,16.49,14.37,15.68,17.36,17.73,17.91,17.85,17.5, 
+235,Latin America & Caribbean,Aruba,ABW,Female, , ,10.43,7.8, , , , , , , , , 
+236,Latin America & Caribbean,Aruba,ABW,Male, , ,10.77,8.6, , , , , , , , , 
+261,East Asia & Pacific,Australia,AUS,Female,4.57,5.4,5.38,5.3,5.33,5.61,6.17,6.07,5.78,5.67,5.32,5.1,6.35
+262,East Asia & Pacific,Australia,AUS,Male,3.96,5.69,5.07,4.89,5.14,5.71,6,6.04,5.65,5.52,5.28,5.21,6.55
+287,Europe & Central Asia,Austria,AUT,Female,4.41,5.09,4.63,4.58,4.79,5.29,5.38,5.31,5.54,5.03,4.65,4.35,5.23
+288,Europe & Central Asia,Austria,AUT,Male,3.89,5.49,4.98,4.55,4.93,5.37,5.83,6.09,6.43,5.91,5.02,4.61,5.48
+313,Europe & Central Asia,Azerbaijan,AZE,Female,5.54,6.58,6.91,6.45,6.09,5.95,5.84,5.87,6,5.9,5.8,5.71, 
+314,Europe & Central Asia,Azerbaijan,AZE,Male,6.15,4.94,4.39,4.43,4.32,4.04,4.02,4.09,4.2,4.1,4.1,4.03, 
+339,Latin America & Caribbean,"Bahamas, The",BHS,Female,9.25,14.04, ,15.31,13.97,16.26,14.6,12.9,14.5,10.9,10, , 
+340,Latin America & Caribbean,"Bahamas, The",BHS,Male,7.18,14.45, ,13.71,14.07,16.11,13,11,11.1,8,10.1, , 
+365,Middle East & North Africa,Bahrain,BHR,Female, , ,3.68, ,3.88, , , , , , , , 
+366,Middle East & North Africa,Bahrain,BHR,Male, , ,0.44, ,0.47, , , , , , , , 
+391,South Asia,Bangladesh,BGD,Female, ,7.4,4.36, , ,7.41, , ,7.29,6.68, , , 
+392,South Asia,Bangladesh,BGD,Male, ,4.2,2.95, , ,3.15, , ,3.09,3.32, , , 
+417,Latin America & Caribbean,Barbados,BRB,Female,9.449999809,9.89,10.47,12.63000011,12.27000046,11.43,12.78,8.97,8.65,8.78,8.54,7.27, 
+418,Latin America & Caribbean,Barbados,BRB,Male,6.880000114,10.15,10.9,9.800000191,10.94999981,11.66,11.81,10.63,7.85,8.47,8.12,9.53, 
+443,Europe & Central Asia,Belarus,BLR,Female,0.9,4.6, ,0.6,0.5,0.4,0.4,0.7,4.19,4.04,3.56,3.2, 
+444,Europe & Central Asia,Belarus,BLR,Male,0.7,7.5, ,0.6,0.6,0.6,0.7,1.2,7.48,7.23,5.93,5.11, 
+469,Europe & Central Asia,Belgium,BEL,Female,7.6,8.11,8.52,7.18,7.41,8.17,7.94,7.77,7.56,7.05,5.56,4.94,5.36
+470,Europe & Central Asia,Belgium,BEL,Male,6.47,7.74,8.11,7.11,7.65,8.64,9.02,9.09,8.06,7.11,6.28,5.73,5.73
+495,Latin America & Caribbean,Belize,BLZ,Female, , , , , ,12.59,14.02,11.07,11.14,9.81, ,13.58, 
+496,Latin America & Caribbean,Belize,BLZ,Male, , , , , ,5.82,4.75,5.44,4.4,4.59, ,5.87, 
+521,Sub-Saharan Africa,Benin,BEN,Female, , ,1.14,2.86, , , , , , ,1.730000019, , 
+522,Sub-Saharan Africa,Benin,BEN,Male, , ,0.93,2.42, , , , , , ,1.24000001, , 
+547,North America,Bermuda,BMU,Female, ,3.01,5.97, ,8.17,5.56,8.05, , , , , , 
+548,North America,Bermuda,BMU,Male, ,5.96,7.01, ,8.7,7.72,9.8, , , , , , 
+573,South Asia,Bhutan,BTN,Female, ,5.35,3.97,4.54,2.2,3.7,3.49,3.15, , , , , 
+574,South Asia,Bhutan,BTN,Male, ,2.64,2.7,1.85,1.9,2.2,1.91,1.84, , , , , 
+599,Latin America & Caribbean,Bolivia,BOL,Female,3.35,3.61, ,2.68,2.79,3,2.85,3.79,4.03,4.05,3.61,4.38,9.78
+600,Latin America & Caribbean,Bolivia,BOL,Male,1.98,2.46, ,1.92,1.49,1.98,1.36,2.62,3.09,3.34,3.44,3.37,6.42
+625,Europe & Central Asia,Bosnia and Herzegovina,BIH,Female,26.78,25.64,29.93,29.94,30.66,29.02,31.17,30.69,30.05,23.13,20.33,18.78,17.40999985
+626,Europe & Central Asia,Bosnia and Herzegovina,BIH,Male,21.4,23.11,25.68,26.11,26.37,26.55,25.18,25.78,22.53,18.87,17.21,13.65,13.85999966
+651,Sub-Saharan Africa,Botswana,BWA,Female, ,19.6,21.43, , , , , , , , ,23.5,25.63999939
+652,Sub-Saharan Africa,Botswana,BWA,Male, ,13,14.59, , , , , , , , ,21.7,24.21999931
+677,Latin America & Caribbean,Brazil,BRA,Female,9.88,11.28, ,9.36,9.02,8.73,8.08,10.02,13.43,14.68,14.19,14.09,15.96
+678,Latin America & Caribbean,Brazil,BRA,Male,5.38,6.36, ,5.05,5.79,5.64,5.57,7.19,10.18,11.34,10.84,10.17,11.87
+703,Latin America & Caribbean,British Virgin Islands,VGB,Female, , , , , , , , , , , , , 
+704,Latin America & Caribbean,British Virgin Islands,VGB,Male, , , , , , , , , , , , , 
+729,East Asia & Pacific,Brunei Darussalam,BRN,Female, , , , , , ,7.88, , ,9.96,10.07,8.34, 
+730,East Asia & Pacific,Brunei Darussalam,BRN,Male, , , , , , ,6.27, , ,8.8,7.72,6.01, 
+755,Europe & Central Asia,Bulgaria,BGR,Female,5.76,6.62,9.61,10.11,10.84,11.84,10.4,8.42,6.97,5.95,4.65,3.87,4.77
+756,Europe & Central Asia,Bulgaria,BGR,Male,5.48,6.98,10.86,12.26,13.52,13.9,12.31,9.78,8.1,6.35,5.69,4.54,5.43
+781,Sub-Saharan Africa,Burkina Faso,BFA,Female, , , , , , ,9.24, , , ,4.63, , 
+782,Sub-Saharan Africa,Burkina Faso,BFA,Male, , , , , , ,3.86, , , ,4.75, , 
+807,Sub-Saharan Africa,Burundi,BDI,Female,1.14, , , , , ,1.17, , , , , , 
+808,Sub-Saharan Africa,Burundi,BDI,Male,2.16, , , , , ,2.05, , , , , , 
+833,Sub-Saharan Africa,Cabo Verde,CPV,Female, , , , , , , ,31.63, ,12.76,11.55,12.07, 
+834,Sub-Saharan Africa,Cabo Verde,CPV,Male, , , , , , , ,31, ,11.82,12.66,10.66, 
+859,East Asia & Pacific,Cambodia,KHM,Female,0.860000014,0.56,0.79,0.48,1.13,0.52,0.69,0.46,0.85,0.17, , , 
+860,East Asia & Pacific,Cambodia,KHM,Male,0.790000021,0.6,0.75,0.68,1.41,0.36,0.69,0.33,0.59,0.11, , , 
+885,Sub-Saharan Africa,Cameroon,CMR,Female, , ,4.88, , , ,4.03, , , , , , 
+886,Sub-Saharan Africa,Cameroon,CMR,Male, , ,3.4, , , ,3.06, , , , , , 
+911,North America,Canada,CAN,Female,5.65,7.01,7.24,7.01,6.82,6.6,6.39,6.29,6.24,5.85,5.49,5.25,9.39
+912,North America,Canada,CAN,Male,6.57,9.54,8.79,7.96,7.72,7.5,7.38,7.46,7.68,6.78,6.14,6.03,9.53
+937,Latin America & Caribbean,Cayman Islands,CYM,Female,4.12,4.99, ,5.47,5.31,5.84,4.65,5.2, , , , , 
+938,Latin America & Caribbean,Cayman Islands,CYM,Male,3.84,7.04, ,8.07,7.1,6.7,4.75,3.3, , , , , 
+989,Sub-Saharan Africa,Chad,TCD,Female, , , , , , , , , , ,0.78, , 
+990,Sub-Saharan Africa,Chad,TCD,Male, , , , , , , , , , ,1.42, , 
+1015,Europe & Central Asia,Channel Islands,CHI,Female, , , , , , , , , , , , , 
+1016,Europe & Central Asia,Channel Islands,CHI,Male, , , , , , , , , , , , , 
+1041,Latin America & Caribbean,Chile,CHL,Female,12.13,13.42,9.92,8.87,8.13,7.18,7.13,7.14,7.27,7.46,7.99,8.02,11.44
+1042,Latin America & Caribbean,Chile,CHL,Male,7.51,9.97,7.45,6.31,5.65,5.55,6.34,6.07,6.37,6.6,6.69,6.76,11
+1067,East Asia & Pacific,China,CHN,Female, , , , , , , , , , , , , 
+1068,East Asia & Pacific,China,CHN,Male, , , , , , , , , , , , , 
+1093,Latin America & Caribbean,Colombia,COL,Female,13.46,14.5,14.2,13.1,12.66,11.67,11.03,10.84,11.21,11.51,11.79,12.75,19.04
+1094,Latin America & Caribbean,Colombia,COL,Male,8.47,9.02,8.64,7.91,7.55,7.07,6.72,6.36,6.78,6.87,7.09,7.88,12.23
+1119,Sub-Saharan Africa,Comoros,COM,Female, , , , , , ,10.44, , , , , , 
+1120,Sub-Saharan Africa,Comoros,COM,Male, , , , , , ,6.68, , , , , , 
+1197,Latin America & Caribbean,Costa Rica,CRI,Female,5.88,9.6,9.05,12.76,11.63,10.42,11.26,11.17,10.86,10.32,12.22,14.98,22.61
+1198,Latin America & Caribbean,Costa Rica,CRI,Male,4.14,6.59,5.96,8.59,8.6,7.7,7.65,7.62,7.24,6.84,8.02,9.14,14.03
+1223,Sub-Saharan Africa,Côte d'Ivoire,CIV,Female, , , , ,7.33,5.11, , ,3.36,3.87, , , 
+1224,Sub-Saharan Africa,Côte d'Ivoire,CIV,Male, , , , ,7.13,3.55, , ,2.08,2.86, , , 
+1249,Europe & Central Asia,Croatia,HRV,Female,10.35,10.71,12.31,13.72,15.98,16.76,18.27,16.9,13.79,11.91,9.34,7.16,7.58
+1250,Europe & Central Asia,Croatia,HRV,Male,7.04,7.92,11.04,13.64,15.89,17.67,16.45,15.55,12.51,10.61,7.64,6.15,7.45
+1275,Latin America & Caribbean,Cuba,CUB,Female,1.97,1.99,2.71,3.51,3.62,3.55,3.1,2.6,2.2,1.6,1.8, , 
+1276,Latin America & Caribbean,Cuba,CUB,Male,1.35,1.47,2.37,2.97,3.37,3.13,2.4,2.3,1.9,1.7,1.6, , 
+1301,Latin America & Caribbean,Curaçao,CUW,Female, , , , , , , , , , ,15.38, ,20.29999924
+1302,Latin America & Caribbean,Curaçao,CUW,Male, , , , , , , , , , ,11.3, ,17.60000038
+1327,Europe & Central Asia,Cyprus,CYP,Female,4.24,5.47,6.41,7.63,11.05,15.16,15.06,14.77,13.32,11.26,8.74,7.98,7.62
+1328,Europe & Central Asia,Cyprus,CYP,Male,3.18,5.27,6.13,8.06,12.46,16.51,17.05,15.04,12.61,10.86,8.03,6.26,7.57
+1353,Europe & Central Asia,Czech Republic,CZE,Female,5.61,7.73,8.46,7.89,8.21,8.29,7.39,6.07,4.67,3.58,2.8,2.38,2.95
+1354,Europe & Central Asia,Czech Republic,CZE,Male,3.46,5.85,6.38,5.8,6.02,5.9,5.1,4.23,3.38,2.34,1.79,1.72,2.23
+1379,Europe & Central Asia,Denmark,DNK,Female,4.07,5.67,6.76,7.62,7.79,7.67,7.14,6.53,6.38,6.05,5.35,5.27,5.98
+1380,Europe & Central Asia,Denmark,DNK,Male,3.34,7.07,8.62,7.9,7.8,7.12,6.73,6.06,5.64,5.64,4.94,4.8,5.33
+1405,Middle East & North Africa,Djibouti,DJI,Female, , , , , , , , , ,35.9, , , 
+1406,Middle East & North Africa,Djibouti,DJI,Male, , , , , , , , , ,22.07, , , 
+1431,Latin America & Caribbean,Dominica,DMA,Female, , , , , , , , , , , , , 
+1432,Latin America & Caribbean,Dominica,DMA,Male, , , , , , , , , , , , , 
+1457,Latin America & Caribbean,Dominican Republic,DOM,Female,7.37,7.89,7.04,8.35,9.21,10.52,9.69,10.84,10.65,8.07,9.03,9.51,8.93999958
+1458,Latin America & Caribbean,Dominican Republic,DOM,Male,3.22,4.12,4.12,4.69,5.15,5.34,4.83,5.45,4.99,4.29,3.67,4.07,4.159999847
+1483,Latin America & Caribbean,Ecuador,ECU,Female,4.98,5.86,4.95,4.27,3.81,3.65,4.13,4.5,5.81,4.9,4.38,4.58,7.32
+1484,Latin America & Caribbean,Ecuador,ECU,Male,3.2,3.77,3.52,2.93,2.85,2.7,3.06,3.01,3.7,3.05,2.92,3.25,5.27
+1509,Middle East & North Africa,"Egypt, Arab Rep.",EGY,Female,18.88,22.38,22.11,22.44,24.01,24.17,24,24.81,23.58,23.01,21.34,21.61, 
+1510,Middle East & North Africa,"Egypt, Arab Rep.",EGY,Male,5.53,5.04,4.77,8.77,9.23,9.8,9.73,9.39,8.84,8.22,6.77,4.83, 
+1535,Latin America & Caribbean,El Salvador,SLV,Female,3.63,4.93,4.16,3.41,3.3,3.33,3.14,3.47,3.85,4,3.75,4.38, 
+1536,Latin America & Caribbean,El Salvador,SLV,Male,7.46,9.03,5.42,4.92,4.23,3.96,4.89,4.37,4.83,4.65,4.19,4.02, 
+1561,Sub-Saharan Africa,Equatorial Guinea,GNQ,Female, , , , , , , , , , , , , 
+1562,Sub-Saharan Africa,Equatorial Guinea,GNQ,Male, , , , , , , , , , , , , 
+1587,Sub-Saharan Africa,Eritrea,ERI,Female, , , , , , , , , , , , , 
+1588,Sub-Saharan Africa,Eritrea,ERI,Male, , , , , , , , , , , , , 
+1613,Europe & Central Asia,Estonia,EST,Female,5.14,10.31,14.1,11.58,9.1,8.16,6.81,6.13,6.07,5.3,5.32,4.84,6.62
+1614,Europe & Central Asia,Estonia,EST,Male,5.76,16.68,19.27,13.06,10.91,9.09,7.86,6.24,7.42,6.19,5.41,4.07,6.97
+1639,Sub-Saharan Africa,Eswatini,SWZ,Female, , , , , , , , ,24.42, , , , 
+1640,Sub-Saharan Africa,Eswatini,SWZ,Male, , , , , , , , ,21.03, , , , 
+1665,Sub-Saharan Africa,Ethiopia,ETH,Female, , , , , ,2.94, , , , , , , 
+1666,Sub-Saharan Africa,Ethiopia,ETH,Male, , , , , ,1.65, , , , , , , 
+1691,Europe & Central Asia,Faroe Islands,FRO,Female, , , , , , , , , , , , , 
+1692,Europe & Central Asia,Faroe Islands,FRO,Male, , , , , , , , , , , , , 
+1717,East Asia & Pacific,Fiji,FJI,Female, , , ,4.62, , ,8.51, ,5.54, , , , 
+1718,East Asia & Pacific,Fiji,FJI,Male, , , ,4.29, , ,4.93, ,3.7, , , , 
+1743,Europe & Central Asia,Finland,FIN,Female,6.69,7.57,7.64,7.1,7.05,7.52,7.95,8.84,8.58,8.39,7.3,6.17,7.49
+1744,Europe & Central Asia,Finland,FIN,Male,6.07,8.89,9.09,8.41,8.28,8.82,9.33,9.88,9.04,8.87,7.42,7.18,8.01
+1769,Europe & Central Asia,France,FRA,Female,7.44,8.8,9.07,9.12,9.36,9.79,10.03,9.91,9.85,9.37,9.06,8.35,7.95
+1770,Europe & Central Asia,France,FRA,Male,6.72,8.68,8.69,8.53,9.44,10.04,10.54,10.77,10.23,9.44,8.98,8.47,8.06
+1795,East Asia & Pacific,French Polynesia,PYF,Female, , , , , , , , , , , , , 
+1796,East Asia & Pacific,French Polynesia,PYF,Male, , , , , , , , , , , , , 
+1821,Sub-Saharan Africa,Gabon,GAB,Female, , ,28.52, , , , , , , , , , 
+1822,Sub-Saharan Africa,Gabon,GAB,Male, , ,14.42, , , , , , , , , , 
+1847,Sub-Saharan Africa,"Gambia, The",GMB,Female, , , , ,12.63, , , , , ,12.41, , 
+1848,Sub-Saharan Africa,"Gambia, The",GMB,Male, , , , ,6.73, , , , , ,8.88, , 
+1873,Europe & Central Asia,Georgia,GEO,Female,17.59,19.08,17.56,17.4,18.37,16.18,14.48,13.92,12.55,12.74,11.23,10.15,16.21
+1874,Europe & Central Asia,Georgia,GEO,Male,18.11,22.1,22.47,21.57,20.77,22.11,19.93,18.71,19.95,15.01,13.92,12.79,20.21
+1899,Europe & Central Asia,Germany,DEU,Female,7.65,7.31,6.5,5.58,5.18,4.92,4.63,4.22,3.74,3.31,2.91,2.73,3.37
+1900,Europe & Central Asia,Germany,DEU,Male,7.42,8.1,7.37,6.03,5.55,5.5,5.28,4.97,4.45,4.12,3.79,3.49,4.19
+1925,Sub-Saharan Africa,Ghana,GHA,Female, , ,5.83, , ,2.36, ,6.6, ,4.37, , , 
+1926,Sub-Saharan Africa,Ghana,GHA,Male, , ,4.91, , ,1.97, ,7.04, ,4.07, , , 
+1951,Europe & Central Asia,Gibraltar,GIB,Female, , , , , , , , , , , , , 
+1952,Europe & Central Asia,Gibraltar,GIB,Male, , , , , , , , , , , , , 
+1977,Europe & Central Asia,Greece,GRC,Female,11.51,13.28,16.33,21.51,28.21,31.35,30.17,28.85,28.1,26.07,24.23,21.5,19.79
+1978,Europe & Central Asia,Greece,GRC,Male,5.13,6.97,10.03,15.12,21.54,24.47,23.6,21.72,19.86,17.82,15.37,13.98,13.54
+2003,Europe & Central Asia,Greenland,GRL,Female, , ,7.7,9.6,10.2,10.1,10.3,9.3, , , , , 
+2004,Europe & Central Asia,Greenland,GRL,Male, , ,7.8,9.2,9.6,10.1,10.3,8.9, , , , , 
+2029,Latin America & Caribbean,Grenada,GRD,Female, , , , , , , , , , , , , 
+2030,Latin America & Caribbean,Grenada,GRD,Male, , , , , , , , , , , , , 
+2055,East Asia & Pacific,Guam,GUM,Female, ,9.8,9.3,15.7,10.8, , , , , , , , 
+2056,East Asia & Pacific,Guam,GUM,Male, ,8.8,7.3,11.2,11.9, , , , , , , , 
+2081,Latin America & Caribbean,Guatemala,GTM,Female, , ,3.83,6.61,3.44,3.64,3.37,3.53,3.45,3.5,2.8,2.91, 
+2082,Latin America & Caribbean,Guatemala,GTM,Male, , ,3.3,2.86,2.37,2.67,2.36,1.99,2.12,1.93,2.01,1.82, 
+2107,Sub-Saharan Africa,Guinea,GIN,Female, , , , , , , , , , , ,5.06, 
+2108,Sub-Saharan Africa,Guinea,GIN,Male, , , , , , , , , , , ,4.98, 
+2133,Sub-Saharan Africa,Guinea-Bissau,GNB,Female, , , , , , , , , , , , , 
+2134,Sub-Saharan Africa,Guinea-Bissau,GNB,Male, , , , , , , , , , , , , 
+2159,Latin America & Caribbean,Guyana,GUY,Female, , , , , , , , , , ,16.49, , 
+2160,Latin America & Caribbean,Guyana,GUY,Male, , , , , , , , , , ,12.34, , 
+2185,Latin America & Caribbean,Haiti,HTI,Female, , , , ,17.3, , , , , , , , 
+2186,Latin America & Caribbean,Haiti,HTI,Male, , , , ,11.5, , , , , , , , 
+2211,Latin America & Caribbean,Honduras,HND,Female,3.84,4.26,5.4,6.31,5.12,7.45,9.25,8.76,8.88,7.85,7.17,8.06, 
+2212,Latin America & Caribbean,Honduras,HND,Male,2.77,2.74,3.37,3.45,3.01,4.56,5.68,4.41,5.3,4.04,4.62,4.22, 
+2237,East Asia & Pacific,"Hong Kong SAR, China",HKG,Female,2.97,4.32,3.5,2.8,2.76,2.97,3.01,3.18,3.08,2.86,2.42,2.31,4.75
+2238,East Asia & Pacific,"Hong Kong SAR, China",HKG,Male,4.05,6.07,5.06,3.99,3.77,3.8,3.57,3.44,3.69,3.39,3.2,3.56,6.92
+2263,Europe & Central Asia,Hungary,HUN,Female,8,9.74,10.66,10.98,10.61,10.14,7.91,7.04,5.11,4.57,3.99,3.5,4.48
+2264,Europe & Central Asia,Hungary,HUN,Male,7.66,10.28,11.61,11.07,11.34,10.21,7.57,6.62,5.12,3.81,3.48,3.36,4.06
+2289,Europe & Central Asia,Iceland,ISL,Female,2.58,5.68,6.74,6.21,5.66,5.08,4.79,4.05,3.05,2.72,2.54,3.11,5.29
+2290,Europe & Central Asia,Iceland,ISL,Male,3.25,8.56,8.31,7.77,6.31,5.65,5,3.91,2.92,2.76,2.85,3.84,5.64
+2315,South Asia,India,IND,Female, , ,3.3, ,3.69, , , , , ,5.3,4.94, 
+2316,South Asia,India,IND,Male, , ,2.17, ,2.4, , , , , ,5.34,5.37, 
+2341,East Asia & Pacific,Indonesia,IDN,Female,8.1,6.7,6.39,5.57,4.78,4.27,3.88,4.43,3.87,3.6,4.18,3.35,3.78
+2342,East Asia & Pacific,Indonesia,IDN,Male,6.66,5.74,5.13,4.9,4.27,4.38,4.15,4.57,4.57,4.06,4.519999981,3.769999981,4.61
+2367,Middle East & North Africa,"Iran, Islamic Rep.",IRN,Female,16.92000008,17.04000092,20.73999977,21.05999947,19.79000092,19.87000084,19.76000023,19.5,20.78000069,19.92,18.96,17.55, 
+2368,Middle East & North Africa,"Iran, Islamic Rep.",IRN,Male,9.270000458,10.98999977,12.10000038,10.72000027,10.57999992,8.75,8.909999847,9.390000343,10.68000031,10.33,10.51,9.1, 
+2393,Middle East & North Africa,Iraq,IRQ,Female, , , , ,12.42, ,21.92, ,22.22,30.96, , , 
+2394,Middle East & North Africa,Iraq,IRQ,Male, , , , ,7.19, ,8.44, ,8.49,10.26, , , 
+2419,Europe & Central Asia,Ireland,IRL,Female,5.7,9.51,11.41,12.5,12.75,12.42,10.87,8.91,7.6,6.29,5.69,4.69,5.65
+2420,Europe & Central Asia,Ireland,IRL,Male,7.6,15.08,17.07,17.69,17.68,14.83,12.67,10.73,9.02,7.07,5.78,5.17,5.6
+2445,Europe & Central Asia,Isle of Man,IMN,Female,1, , ,2.76, ,1.71,1.26, ,2.26, , , , 
+2446,Europe & Central Asia,Isle of Man,IMN,Male,1.8, , ,3.77, ,3.36,2.59, ,3.03, , , , 
+2471,Middle East & North Africa,Israel,ISR,Female,7.86,9.18,7.95,6.95,6.98,6.24,5.92,5.39,4.94,4.32,3.95,3.93,4.119999886
+2472,Middle East & North Africa,Israel,ISR,Male,7.57,9.84,8.94,7.3,6.75,6.18,5.87,5.13,4.67,4.12,4.04,3.69,4.519999981
+2497,Europe & Central Asia,Italy,ITA,Female,8.5,9.22,9.6,9.54,11.83,13.07,13.8,12.69,12.77,12.39,11.77,11.1,10.19
+2498,Europe & Central Asia,Italy,ITA,Male,5.5,6.72,7.5,7.52,9.8,11.48,11.86,11.32,10.89,10.34,9.75,9.09,8.4
+2523,Latin America & Caribbean,Jamaica,JAM,Female,14.58,14.84,16.21,17.2,18.08,20.07,18.14,17.86,17.4,15.37,11.9,9.899999619, 
+2524,Latin America & Caribbean,Jamaica,JAM,Male,7.3,8.52,9.21,9.6,10.51,11.23,10.09,9.9,9.6,8.42,6.72,5.800000191, 
+2549,East Asia & Pacific,Japan,JPN,Female,3.859999895,4.78000021,4.610000134,4.150000095,4.050000191,3.7,3.4,3.1,2.8,2.7,2.2,2.2,2.5
+2550,East Asia & Pacific,Japan,JPN,Male,4.110000134,5.269999981,5.460000038,4.840000153,4.579999924,4.3,3.7,3.6,3.3,3,2.6,2.5,3
+2575,Middle East & North Africa,Jordan,JOR,Female,24.4,24.1,21.7,21.2,19.9,22.2,20.7,22.55,24.13,27.2,24.13,24.12, 
+2576,Middle East & North Africa,Jordan,JOR,Male,10.1,10.3,10.4,11,10.4,10.6,10.1,10.98,13.32,15.79,17.02,15.45, 
+2601,Europe & Central Asia,Kazakhstan,KAZ,Female,7.95,7.54,6.63,6.21,6.47,5.87, , , ,5.43, , ,5.37
+2602,Europe & Central Asia,Kazakhstan,KAZ,Male,5.33,5.59,4.93,4.6,4.13,4.57, , , ,4.4, , ,4.43
+2627,Sub-Saharan Africa,Kenya,KEN,Female, ,9.4, , , , , , ,2.94, , ,5.26, 
+2628,Sub-Saharan Africa,Kenya,KEN,Male, ,9.9, , , , , , ,2.58, , ,4.78, 
+2653,East Asia & Pacific,Kiribati,KIR,Female, , ,34.09, , , , ,5.64, , , ,8.67, 
+2654,East Asia & Pacific,Kiribati,KIR,Male, , ,27.63, , , , ,11.87, , , ,8.54, 
+2679,East Asia & Pacific,"Korea, Dem. People's Rep.",PRK,Female, , , , , , , , , , , , , 
+2680,East Asia & Pacific,"Korea, Dem. People's Rep.",PRK,Male, , , , , , , , , , , , , 
+2705,East Asia & Pacific,"Korea, Rep.",KOR,Female,2.4,2.69,2.84,2.64,2.56,2.46,2.96,3.48,3.54,3.48,3.69,3.58,3.99
+2706,East Asia & Pacific,"Korea, Rep.",KOR,Male,3.36,3.84,3.67,3.24,2.99,2.96,3.17,3.59,3.73,3.78,3.92,3.87,3.89
+2731,Europe & Central Asia,Kosovo,XKX,Female,59.6,56.4, , ,39.96, ,41.53,36.57,31.69,36.39,33.26,35.41999817,32.63000107
+2732,Europe & Central Asia,Kosovo,XKX,Male,42.7,40.7, , ,28.03, ,32.95,31.79,26.15,28.52,28.31,22.72999954,23.73999977
+2757,Middle East & North Africa,Kuwait,KWT,Female,3.73,3.39,2.8, , , ,4.9,4.4,5.83, , , , 
+2758,Middle East & North Africa,Kuwait,KWT,Male,1.1,1.04,1.41, , , ,1.9,1.2,0.94, , , , 
+2783,Europe & Central Asia,Kyrgyz Republic,KGZ,Female,9.38,9.76,9.94,9.85,9.47,9.66,9.49,9.02,8.74,8.91,5, , 
+2784,Europe & Central Asia,Kyrgyz Republic,KGZ,Male,7.34,7.41,7.71,7.58,7.69,7.43,7.03,6.54,6.18,5.59,4.25, , 
+2809,East Asia & Pacific,Lao PDR,LAO,Female, , ,0.66, , , , , , ,7.82, , , 
+2810,East Asia & Pacific,Lao PDR,LAO,Male, , ,0.76, , , , , , ,10.75, , , 
+2835,Europe & Central Asia,Latvia,LVA,Female,7.08,14.14,16.3,13.8,13.95,11.14,9.84,8.64,8.4,7.68,6.42,5.43,7.07
+2836,Europe & Central Asia,Latvia,LVA,Male,8.38,20.9,22.75,18.64,16.16,12.6,11.85,11.09,10.9,9.76,8.41,7.2,9.13
+2861,Middle East & North Africa,Lebanon,LBN,Female, ,10.4, , , , , , , , , ,14.35, 
+2862,Middle East & North Africa,Lebanon,LBN,Male, ,5.02, , , , , , , , , ,9.97, 
+2887,Sub-Saharan Africa,Lesotho,LSO,Female,38.79, , , , , , , , , , ,22.29, 
+2888,Sub-Saharan Africa,Lesotho,LSO,Male,32.54, , , , , , , , , , ,22.58, 
+2913,Sub-Saharan Africa,Liberia,LBR,Female, , ,2.29, , , ,1.8, ,2.36, , , , 
+2914,Sub-Saharan Africa,Liberia,LBR,Male, , ,2.24, , , ,2.36, ,3.79, , , , 
+2939,Middle East & North Africa,Libya,LBY,Female, , , , ,25.05, , , , , , , , 
+2940,Middle East & North Africa,Libya,LBY,Male, , , , ,15.88, , , , , , , , 
+2965,Europe & Central Asia,Liechtenstein,LIE,Female, , , , , , , , , , , , , 
+2966,Europe & Central Asia,Liechtenstein,LIE,Male, , , , , , , , , , , , , 
+2991,Europe & Central Asia,Lithuania,LTU,Female,5.63,10.52,14.52,12.91,11.57,10.48,9.22,8.16,6.65,5.68,5.41,5.49,7.69
+2992,Europe & Central Asia,Lithuania,LTU,Male,6.02,17.08,21.19,17.91,15.2,13.06,12.18,10.1,9.1,8.5,6.89,7.02,9.27
+3017,Europe & Central Asia,Luxembourg,LUX,Female,6.03,6.13,5.09,6.26,5.91,6.38,5.77,7.34,6.63,5.5,5.88,5.53,6.97
+3018,Europe & Central Asia,Luxembourg,LUX,Male,4.32,4.36,3.79,3.84,4.53,5.42,5.92,6.1,6.01,5.54,5.33,5.65,6.6
+3043,East Asia & Pacific,"Macao SAR, China",MAC,Female,2.8,2.79,2.06,2.18,1.65,1.4,1.4,1.57,1.5,1.6,1.3,1.3,2.2
+3044,East Asia & Pacific,"Macao SAR, China",MAC,Male,3.2,4.2,3.52,2.98,2.27,2.23,1.9,1.97,2.3,2.4,2.3,2.1,2.9
+3069,Sub-Saharan Africa,Madagascar,MDG,Female, , ,5.31, ,0.63, , ,1.8, , , , , 
+3070,Sub-Saharan Africa,Madagascar,MDG,Male, , ,3.25, ,0.57, , ,1.77, , , , , 
+3095,Sub-Saharan Africa,Malawi,MWI,Female, , , ,1.76, ,6.93, , , ,7.52, , , 
+3096,Sub-Saharan Africa,Malawi,MWI,Male, , , ,1.71, ,4.94, , , ,4.37, , , 
+3121,East Asia & Pacific,Malaysia,MYS,Female, , , ,3.319999933, , ,3.22,3.39,3.92, ,3.63,3.4, 
+3122,East Asia & Pacific,Malaysia,MYS,Male, , , ,2.910000086, , ,2.67,2.92,3.13, ,3.09,3.17, 
+3147,South Asia,Maldives,MDV,Female, ,13.75, , , , ,5.41, ,5.63, , ,4.900000095, 
+3148,South Asia,Maldives,MDV,Male, ,10.38, , , , ,3.19, ,6.43, , ,5.639999866, 
+3173,Sub-Saharan Africa,Mali,MLI,Female, , ,11.11, , ,8.24,6.3,8.74,1.3,8.34,1.56, , 
+3174,Sub-Saharan Africa,Mali,MLI,Male, , ,6.04, , ,4.55,6.44,6.86,1.42,6.65,1.67, , 
+3199,Middle East & North Africa,Malta,MLT,Female,6.78,7.63,7.13,7.13,7.21,6.14,5.1,5.39,5.16,4.25,3.5,4.01,4.36
+3200,Middle East & North Africa,Malta,MLT,Male,5.57,6.51,6.7,5.97,5.59,6.09,6.12,5.37,4.37,3.83,3.77,3.35,4.19
+3225,East Asia & Pacific,Marshall Islands,MHL,Female, , , ,4.48, , , , , , , ,4.28, 
+3226,East Asia & Pacific,Marshall Islands,MHL,Male, , , ,4.87, , , , , , , ,7.4, 
+3251,Sub-Saharan Africa,Mauritania,MRT,Female, , , , ,12.4, , , , ,11.45, , , 
+3252,Sub-Saharan Africa,Mauritania,MRT,Male, , , , ,8.46, , , , ,9.66, , , 
+3277,Sub-Saharan Africa,Mauritius,MUS,Female,12.59,12.27,12.92,11.71,11.72,11.15,10.83,10.68,10.41,10.04,9.51,9.68, 
+3278,Sub-Saharan Africa,Mauritius,MUS,Male,4.04,4.33,4.48,4.91,4.93,4.93,5.36,5.28,4.52,4.64,4.41,4.1, 
+3303,Latin America & Caribbean,Mexico,MEX,Female,4.03,5.35,5.18,5.13,4.88,4.96,4.85,4.45,3.91,3.6,3.43,3.52,4.1
+3304,Latin America & Caribbean,Mexico,MEX,Male,3.78,5.36,5.37,5.19,4.89,4.89,4.79,4.23,3.83,3.31,3.19,3.46,4.67
+3329,East Asia & Pacific,"Micronesia, Fed. Sts.",FSM,Female, , , , , , ,13.88, , , , , , 
+3330,East Asia & Pacific,"Micronesia, Fed. Sts.",FSM,Male, , , , , , ,5.37, , , , , , 
+3355,Europe & Central Asia,Moldova,MDA,Female,3.35,4.89,5.74,5.59,4.29,4.14,2.92,3.45,2.74,3.34,3.14,4.35,3.25
+3356,Europe & Central Asia,Moldova,MDA,Male,4.54,7.83,9.08,7.73,6.82,6.03,4.51,5.91,5.24,4.83,5.06,5.8,4.34
+3381,Europe & Central Asia,Monaco,MCO,Female, , , , , , , , ,8.68, , , , 
+3382,Europe & Central Asia,Monaco,MCO,Male, , , , , , , , ,4.58, , , , 
+3407,East Asia & Pacific,Mongolia,MNG,Female,5.19,6.16,5.9,4.43,3.53,4.46,4.41,4.26,5.9,5.66,4.83,8.87,6.71
+3408,East Asia & Pacific,Mongolia,MNG,Male,5.92,5.58,7.13,5.07,4.25,4.02,5.15,5.4,8.41,6.98,5.85,11.03,7.28
+3433,Europe & Central Asia,Montenegro,MNE,Female,18.37,20.43,20.75,20.14,20.25,18.82,18.22,17.31,17.08,16.94,15.1,15.68,18.4
+3434,Europe & Central Asia,Montenegro,MNE,Male,16.25,18.04,18.8,19.31,19.75,20.04,17.81,17.74,18.24,15.38,15.24,14.68,17.5
+3459,Middle East & North Africa,Morocco,MAR,Female,9.78,9.28,9.48,10.22,9.94,9.57,10.28,10.39,10.66, , , , 
+3460,Middle East & North Africa,Morocco,MAR,Male,9.49,8.84,8.94,8.43,8.65,9.11,9.49,9.11,8.81, , , , 
+3485,Sub-Saharan Africa,Mozambique,MOZ,Female, , , , , , , ,3.67, , , , , 
+3486,Sub-Saharan Africa,Mozambique,MOZ,Male, , , , , , , ,3.15, , , , , 
+3511,East Asia & Pacific,Myanmar,MMR,Female, , , , , , , ,0.9, ,2.02,1.04,0.59, 
+3512,East Asia & Pacific,Myanmar,MMR,Male, , , , , , , ,0.67, ,1.22,0.73,0.44, 
+3537,Sub-Saharan Africa,Namibia,NAM,Female, , ,23.95999908, ,18.97,20.66,20.38, ,24.98, ,18.59, , 
+3538,Sub-Saharan Africa,Namibia,NAM,Male, , ,20.34000015, ,14.66,17.33,16.71, ,21.78, ,21.13, , 
+3563,East Asia & Pacific,Nauru,NRU,Female, , , ,25.51, ,17.95, , , , , , , 
+3564,East Asia & Pacific,Nauru,NRU,Male, , , ,21.36, ,10.03, , , , , , , 
+3589,South Asia,Nepal,NPL,Female,1.08, , , , , , ,2.9, ,13.06, , , 
+3590,South Asia,Nepal,NPL,Male,1.59, , , , , , ,3.4, ,10.31, , , 
+3615,Europe & Central Asia,Netherlands,NLD,Female,4.47,4.92,5.54,5.41,6.23,7.3,7.75,7.27,6.51,5.25,3.96,3.36,3.95
+3616,Europe & Central Asia,Netherlands,NLD,Male,2.98,3.87,4.52,4.6,5.47,7.19,7.13,6.53,5.57,4.48,3.72,3.4,3.7
+3641,East Asia & Pacific,New Caledonia,NCL,Female, ,16.34, , , , ,15.6, , , , , , 
+3642,East Asia & Pacific,New Caledonia,NCL,Male, ,12.05, , , , ,13.74, , , , , , 
+3667,East Asia & Pacific,New Zealand,NZL,Female,4.26,6.14,6.93,6.76,7.39,6.420000076,6.130000114,5.9,5.519999981,5.239999771,4.5,4.43,4.98
+3668,East Asia & Pacific,New Zealand,NZL,Male,4.08,6.1,6.23,6.25,6.52,5.309999943,4.800000191,4.97,4.809999943,4.289999962,4.18,3.82,4.25
+3693,Latin America & Caribbean,Nicaragua,NIC,Female,6.9, , , ,5.73,5.45,5.61,5.4,4.2,3.4,5.3, , 
+3694,Latin America & Caribbean,Nicaragua,NIC,Male,5.7, , , ,4.78,5.14,3.84,4.2,3.6,3.1,5.2, , 
+3719,Sub-Saharan Africa,Niger,NER,Female, , , ,0.22,3.71, ,0.43, , ,7.79, , , 
+3720,Sub-Saharan Africa,Niger,NER,Male, , , ,0.4,1.67, ,0.6, , ,7.76, , , 
+3745,Sub-Saharan Africa,Nigeria,NGA,Female, , , ,3.69, ,3.38,5.35,5.06,8.03,9.15, ,7.5, 
+3746,Sub-Saharan Africa,Nigeria,NGA,Male, , , ,3.84, ,4.01,3.83,3.62,6.14,7.59, ,9.41, 
+3771,Europe & Central Asia,North Macedonia,MKD,Female,34.16,32.82,32.24,30.79,30.33,29.02,28.62,25.06,22.73,21.82,19.87,18.39,16.92
+3772,Europe & Central Asia,North Macedonia,MKD,Male,33.51,31.78,31.88,31.76,31.46,28.98,27.65,26.72,24.36,22.74,21.29,16.48,17.4
+3797,East Asia & Pacific,Northern Mariana Islands,MNP,Female, , ,13.05, , , , , , , , , , 
+3798,East Asia & Pacific,Northern Mariana Islands,MNP,Male, , ,9.66, , , , , , , , , , 
+3823,Europe & Central Asia,Norway,NOR,Female,2.36,2.6,2.94,2.99,2.63,3.23,3.24,4,3.91,3.69,3.54,3.39,4.13
+3824,Europe & Central Asia,Norway,NOR,Male,2.72,3.55,4.04,3.42,3.56,3.59,3.71,4.56,5.36,4.58,4.03,3.95,4.68
+3849,Middle East & North Africa,Oman,OMN,Female,8.09, , , , , , , ,13.68, ,7.1, ,9.680000305
+3850,Middle East & North Africa,Oman,OMN,Male,3.41, , , , , , , ,1.8, ,0.8, ,1.360000014
+3875,South Asia,Pakistan,PAK,Female,0.53,0.36,0.64,0.67, ,3.42,2.01,6.11, , ,4.55, , 
+3876,South Asia,Pakistan,PAK,Male,0.4,0.58,0.66,0.83, ,2.82,1.77,2.8, , ,3.96, , 
+3901,East Asia & Pacific,Palau,PLW,Female, , , , , , ,1.75, , , , , , 
+3902,East Asia & Pacific,Palau,PLW,Male, , , , , , ,1.06, , , , , , 
+3927,Latin America & Caribbean,Panama,PAN,Female,7.19,8.85,5.07,2.68,3.03,3.06,3.49,3.9,3.92,5.08,4.97,5.79,24.67
+3928,Latin America & Caribbean,Panama,PAN,Male,3.49,5.11,2.88,2.08,1.97,1.81,2.2,2.39,2.9,3.08,3.13,3.97,13.59
+3953,East Asia & Pacific,Papua New Guinea,PNG,Female, , ,1.28,1.44, , , , , , , , , 
+3954,East Asia & Pacific,Papua New Guinea,PNG,Male, , ,2.68,3.7, , , , , , , , , 
+3979,Latin America & Caribbean,Paraguay,PRY,Female,5.96,6.65,6.05,6.36,5.43,4.95,6.76,4.93,6.71,5.42,7.52,8.29,9.93
+3980,Latin America & Caribbean,Paraguay,PRY,Male,3.42,4.67,3.62,3.49,3.1,3.97,3.82,4.29,4.26,4.06,5.29,5.36,5.85
+4005,Latin America & Caribbean,Peru,PER,Female,4.64,4.19,4.13,3.81,3.72,3.96,3.41,3.35,3.98,3.91,3.88,3.74,6.980000019
+4006,Latin America & Caribbean,Peru,PER,Male,3.55,3.8,3.11,3.19,2.84,3.26,3.05,3.21,3.55,3.51,3.17,3.08,7.809999943
+4031,East Asia & Pacific,Philippines,PHL,Female,4.01,4.13,3.79,3.83,3.73,3.82,3.72,3.22,2.85,2.7,2.68,2.53,2.720000029
+4032,East Asia & Pacific,Philippines,PHL,Male,3.54,3.68,3.49,3.44,3.36,3.29,3.52,2.97,2.6,2.46,2.13,2.05,2.400000095
+4057,Europe & Central Asia,Poland,POL,Female,7.95,8.66,10.02,10.4,10.91,11.11,9.59,7.71,6.23,4.91,3.85,3.6,3.29
+4058,Europe & Central Asia,Poland,POL,Male,6.43,7.76,9.32,9.01,9.42,9.69,8.5,7.33,6.11,4.87,3.84,3.02,3.06
+4083,Europe & Central Asia,Portugal,PRT,Female,8.75,10.09,11.86,13.04,15.5,16.37,14.33,12.75,11.17,9.35,7.44,7.15,7.05
+4084,Europe & Central Asia,Portugal,PRT,Male,6.47,8.83,9.76,12.34,15.55,16.01,13.48,12.16,10.97,8.41,6.57,5.8,6.54
+4109,Latin America & Caribbean,Puerto Rico,PRI,Female,9.66,12.5,12.7,12.8,12, , ,9.7, , , , , 
+4110,Latin America & Caribbean,Puerto Rico,PRI,Male,12.83,17,18.9,18.2,16.2, , ,13.8, , , , , 
+4135,Middle East & North Africa,Qatar,QAT,Female,1.69,1.92,2.7,3.32,2.82,1.63,1.03,0.85,0.7,0.62,0.46,0.4, 
+4136,Middle East & North Africa,Qatar,QAT,Male,0.14,0.14,0.14,0.17,0.14,0.09,0.07,0.06,0.06,0.06,0.05,0.1, 
+4161,Europe & Central Asia,Romania,ROU,Female,4.67,5.84,6.18,6.46,6.08,6.31,6.09,5.85,4.98,4.04,3.49,3.38,4.69
+4162,Europe & Central Asia,Romania,ROU,Male,6.68,7.67,7.57,7.74,7.35,7.71,7.35,7.53,6.59,5.6,4.71,4.31,5.29
+4187,Europe & Central Asia,Russia,RUS,Female,5.94,7.67,6.84,6.09,5.07,5.14,4.82,5.31,5.35,5.05,4.78,4.33,5.53
+4188,Europe & Central Asia,Russia,RUS,Male,6.46,8.91,7.88,6.97,5.79,5.76,5.48,5.82,5.76,5.36,4.91,4.65,5.64
+4213,Sub-Saharan Africa,Rwanda,RWA,Female, , , , , , ,1.24, , ,19.35,17.05,17.02, 
+4214,Sub-Saharan Africa,Rwanda,RWA,Male, , , , , , ,1.09, , ,15.7,13.53,13.9, 
+4239,East Asia & Pacific,Samoa,WSM,Female, , , ,6.82,10.26, ,10.27, , ,21.34, , , 
+4240,East Asia & Pacific,Samoa,WSM,Male, , , ,5.24,7.84, ,7.8, , ,10.61, , , 
+4265,Europe & Central Asia,San Marino,SMR,Female, ,6.26,7.29, ,7.47,8.7,9.47,10.95,10.03, , ,9.16, 
+4266,Europe & Central Asia,San Marino,SMR,Male, ,2.35,2.13, ,3.36,3.94,4.28,4.42,3.52, , ,3.14, 
+4291,Sub-Saharan Africa,São Tomé and Principe,STP,Female, , , , , , , , , , , , , 
+4292,Sub-Saharan Africa,São Tomé and Principe,STP,Male, , , , , , , , , , , , , 
+4317,Middle East & North Africa,Saudi Arabia,SAU,Female,13.78,15.94,17.38,19.21,21.28,20.73,21.58,21.38,21.1,21.3,22.56, ,20.20000076
+4318,Middle East & North Africa,Saudi Arabia,SAU,Male,3.54,3.53,3.45,3.35,2.67,2.78,2.76,2.44,2.51,3.22,2.94, ,4
+4343,Sub-Saharan Africa,Senegal,SEN,Female, , , ,13.41, , , ,7.3,4.75,3.549999952, ,3.049999952, 
+4344,Sub-Saharan Africa,Senegal,SEN,Male, , , ,7.92, , , ,6.39,4.239999771,3.789999962, ,2.75, 
+4369,Europe & Central Asia,Serbia,SRB,Female,15.98,17.86,20.22,23.7,24.98,23.84,20.37,18.76,16.1,14.27,13.7,11.08,9.41
+4370,Europe & Central Asia,Serbia,SRB,Male,11.92,14.79,18.45,22.42,23.27,20.87,18.33,16.81,14.59,12.84,11.96,9.85,8.69
+4395,Sub-Saharan Africa,Seychelles,SYC,Female, , , ,4.48, , ,3.9,4.79,4.23,3.73,3.11,2.75,3.529999971
+4396,Sub-Saharan Africa,Seychelles,SYC,Male, , , ,3.76, , ,3.78,3.52,3.71,3.7,3.95,3.19,4.909999847
+4421,Sub-Saharan Africa,Sierra Leone,SLE,Female, , , , , , ,3.88, , , , , , 
+4422,Sub-Saharan Africa,Sierra Leone,SLE,Male, , , , , , ,5.58, , , , , , 
+4447,East Asia & Pacific,Singapore,SGP,Female,4.38,6.51,4.4,4.32,4.2,4.38,4.09,3.96,4.48,4.4, ,3.4,4.400000095
+4448,East Asia & Pacific,Singapore,SGP,Male,3.61,5.37,3.9,3.58,3.34,3.46,3.46,3.64,3.78,4, ,3,3.900000095
+4473,Latin America & Caribbean,Sint Maarten (Dutch part),SXM,Female, , , , , , , , , , , , , 
+4474,Latin America & Caribbean,Sint Maarten (Dutch part),SXM,Male, , , , , , , , , , , , , 
+4499,Europe & Central Asia,Slovak Republic,SVK,Female,10.93,12.83,14.6,13.63,14.52,14.53,13.63,12.89,10.76,8.41,7.03,5.96,7.06
+4500,Europe & Central Asia,Slovak Republic,SVK,Male,8.36,11.39,14.2,13.61,13.52,13.98,12.82,10.32,8.77,7.9,6.13,5.59,6.38
+4525,Europe & Central Asia,Slovenia,SVN,Female,4.82,5.8,7.02,8.17,9.37,10.91,10.55,10.04,8.59,7.47,5.7,4.95,5.63
+4526,Europe & Central Asia,Slovenia,SVN,Male,3.99,5.9,7.42,8.16,8.39,9.42,8.92,8.05,7.49,5.77,4.6,4.01,4.41
+4551,East Asia & Pacific,Solomon Islands,SLB,Female, ,1.76, , , ,0.72, , , , , , , 
+4552,East Asia & Pacific,Solomon Islands,SLB,Male, ,2.25, , , ,0.67, , , , , , , 
+4577,Sub-Saharan Africa,Somalia,SOM,Female, , , , , , , , , , , , , 
+4578,Sub-Saharan Africa,Somalia,SOM,Male, , , , , , , , , , , , , 
+4603,Sub-Saharan Africa,South Africa,ZAF,Female,25.74,25.54,26.98,27.19,27.05,26.52,27.02,27.52,28.98,29.26,29.05,30.5,31.02
+4604,Sub-Saharan Africa,South Africa,ZAF,Male,19.69,21.89,22.84,22.56,22.84,22.95,23.15,23.2,24.53,25.2,25.13,26.79,27.74
+4629,Sub-Saharan Africa,South Sudan,SSD,Female,13.23, , , , , , , , , , , ,17.43
+4630,Sub-Saharan Africa,South Sudan,SSD,Male,11.17, , , , , , , , , , , ,13.87
+4655,Europe & Central Asia,Spain,ESP,Female,12.84,18.13,20.22,21.81,25.03,26.67,25.43,23.55,21.38,19.03,17.02,15.99, 
+4656,Europe & Central Asia,Spain,ESP,Male,10.05,17.64,19.57,21.04,24.58,25.6,23.6,20.77,18.12,15.66,13.72,12.45, 
+4681,South Asia,Sri Lanka,LKA,Female,8.03,8.62,7.4,6.91,6.1,6.41,6.27,7.33,6.72,6.24,6.88, , 
+4682,South Asia,Sri Lanka,LKA,Male,3.63,4.32,3.42,2.66,2.76,3.05,3.08,2.94,2.84,2.79,2.95, , 
+4707,Latin America & Caribbean,St. Kitts and Nevis,KNA,Female, , , , , , , , , , , , , 
+4708,Latin America & Caribbean,St. Kitts and Nevis,KNA,Male, , , , , , , , , , , , , 
+4733,Latin America & Caribbean,St. Lucia,LCA,Female,14.75,16.46, ,20.22,21.19,23.93, , , ,20.86,20.88,16.95, 
+4734,Latin America & Caribbean,St. Lucia,LCA,Male,11.04,14.39, ,17.61,17.09,20.66, , , ,17.07,17.53,13.84, 
+4759,Latin America & Caribbean,St. Martin (French part),MAF,Female, , , , , , , , , , , , , 
+4760,Latin America & Caribbean,St. Martin (French part),MAF,Male, , , , , , , , , , , , , 
+4785,Latin America & Caribbean,St. Vincent and the Grenadines,VCT,Female, , , , , , , , , , , , , 
+4786,Latin America & Caribbean,St. Vincent and the Grenadines,VCT,Male, , , , , , , , , , , , , 
+4811,Sub-Saharan Africa,Sudan,SDN,Female,19.3,23, ,30.74, , , , , , , , , 
+4812,Sub-Saharan Africa,Sudan,SDN,Male,12.7,9, ,12.37, , , , , , , , , 
+4837,Latin America & Caribbean,Suriname,SUR,Female, ,14.33,12.58,12.41,12.37,11.01,11.81,11.45,11.11, , , , 
+4838,Latin America & Caribbean,Suriname,SUR,Male, ,4.84,3.6,4.21,5.08,3.63,3.52,4.38,5.68, , , , 
+4863,Europe & Central Asia,Sweden,SWE,Female,6.57,8.01,8.52,7.76,7.71,7.89,7.69,7.29,6.59,6.44,6.24,6.96,8.29
+4864,Europe & Central Asia,Sweden,SWE,Male,5.94,8.66,8.69,7.84,8.21,8.2,8.19,7.56,7.36,6.97,6.48,6.72,8.3
+4889,Europe & Central Asia,Switzerland,CHE,Female,3.97,4.52,5.19,4.79,4.73,4.92,4.99,4.91,5.01,5.06,5.11,4.71, 
+4890,Europe & Central Asia,Switzerland,CHE,Male,2.82,3.77,4.48,4.07,4.28,4.6,4.69,4.7,4.84,4.57,4.37,4.11, 
+4915,Middle East & North Africa,Syrian Arab Republic,SYR,Female,24.19,22.29,22, , , , , , , , , , 
+4916,Middle East & North Africa,Syrian Arab Republic,SYR,Male,8.35,5.69,6.23, , , , , , , , , , 
+4941,Europe & Central Asia,Tajikistan,TJK,Female, ,10.48, , , , , , ,5.5, , , , 
+4942,Europe & Central Asia,Tajikistan,TJK,Male, ,12.26, , , , , , ,7.9, , , , 
+4967,Sub-Saharan Africa,Tanzania,TZA,Female, ,2.7, ,4.29,0.289999992,3.79,2.69, , , , , , 
+4968,Sub-Saharan Africa,Tanzania,TZA,Male, ,2.2, ,2.62,0.289999992,2.1,1.57, , , , , , 
+4993,East Asia & Pacific,Thailand,THA,Female,1.04,1.45,0.62,0.68,0.53,0.24,0.56,0.61,0.71,0.84,0.74,0.73,1.09
+4994,East Asia & Pacific,Thailand,THA,Male,1.3,1.52,0.62,0.65,0.62,0.26,0.59,0.59,0.67,0.82,0.78,0.7,1.11
+5019,East Asia & Pacific,Timor-Leste,TLS,Female, , ,4.26, , ,10.59, , ,6.26, , , , 
+5020,East Asia & Pacific,Timor-Leste,TLS,Male, , ,2.85, , ,11.19, , ,3.34, , , , 
+5045,Sub-Saharan Africa,Togo,TGO,Female, , , ,1.66, , , ,1.7, ,2.82, , , 
+5046,Sub-Saharan Africa,Togo,TGO,Male, , , ,2.32, , , ,2.71, ,4.73, , , 
+5071,East Asia & Pacific,Tonga,TON,Female, , , , , , , , , , ,3.63, , 
+5072,East Asia & Pacific,Tonga,TON,Male, , , , , , , , , , ,2.63, , 
+5097,Latin America & Caribbean,Trinidad and Tobago,TTO,Female,6.18,6.29,4.67,4.25,4.57,3.25,2.94,2.95,3.16, , , , 
+5098,Latin America & Caribbean,Trinidad and Tobago,TTO,Male,3.52,4.58,3.59,2.87,3.11,2.28,2.15,2.06,3.24, , , , 
+5123,Middle East & North Africa,Tunisia,TUN,Female,15.94,18.77,18.94,27.37,25.61,23, ,22.21,23.46,22.63,22.76,22.18, 
+5124,Middle East & North Africa,Tunisia,TUN,Male,11.15,11.27,10.89,15.04,14.63,13.26, ,12.4,12.37,12.39,12.5,12.27, 
+5149,Europe & Central Asia,Turkey,TUR,Female,9.98,12.61,11.39,10.07,9.38,10.55,11.83,12.59,13.63,13.89,13.77,16.41,14.85
+5150,Europe & Central Asia,Turkey,TUR,Male,9.61,12.53,10.37,8.27,7.63,7.93,9.03,9.18,9.55,9.37,9.51,12.33,12.31
+5175,Europe & Central Asia,Turkmenistan,TKM,Female, ,1.8,2.3, , , , , , , , , , 
+5176,Europe & Central Asia,Turkmenistan,TKM,Male, ,4.5,5.3, , , , , , , , , , 
+5201,Latin America & Caribbean,Turks and Caicos Islands,TCA,Female, , , , , , , , , , , , , 
+5202,Latin America & Caribbean,Turks and Caicos Islands,TCA,Male, , , , , , , , , , , , , 
+5227,East Asia & Pacific,Tuvalu,TUV,Female, , , , , , , , ,16.22, , , , 
+5228,East Asia & Pacific,Tuvalu,TUV,Male, , , , , , , , ,4.64, , , , 
+5253,Sub-Saharan Africa,Uganda,UGA,Female, , , , ,4.29,2.44, , , ,11.88, , , 
+5254,Sub-Saharan Africa,Uganda,UGA,Male, , , , ,2.87,1.37, , , ,8.68, , , 
+5279,Europe & Central Asia,Ukraine,UKR,Female,6.09,7.31,6.82, , ,6.22,7.52,8.08,7.69,7.7,7.43,7.86, 
+5280,Europe & Central Asia,Ukraine,UKR,Male,6.62,10.29,9.3, , ,8.04,10.85,10.1,10.83,11.1,10.04,8.5, 
+5305,Middle East & North Africa,United Arab Emirates,ARE,Female, , , , , , , , ,4.02,6.81, ,5.1, 
+5306,Middle East & North Africa,United Arab Emirates,ARE,Male, , , , , , , , ,1.07,1.41, ,1.28, 
+5331,Europe & Central Asia,United Kingdom,GBR,Female,5.09,6.42,6.88,7.34,7.39,7.04,5.82,5.12,4.68,4.22,3.94,3.53, 
+5332,Europe & Central Asia,United Kingdom,GBR,Male,6.06,8.49,8.57,8.64,8.32,7.95,6.36,5.45,4.92,4.43,4.05,3.92, 
+5357,North America,United States of America,USA,Female,5.42,8.07,8.62,8.46,7.89,7.08,6.06,5.18,4.79,4.31,3.84,3.61,8.35
+5358,North America,United States of America,USA,Male,6.1,10.29,10.52,9.37,8.23,7.64,6.26,5.37,4.94,4.4,3.95,3.72,7.8
+5383,Latin America & Caribbean,Uruguay,URY,Female,10.82,10.37,9.4,8.07,8.26,8.2,8.34,8.85,9.44,9.47,10.07,10.69,12.36
+5384,Latin America & Caribbean,Uruguay,URY,Male,5.62,5.51,5.27,4.84,4.91,4.99,5.06,6.36,6.5,6.56,6.86,7.34,8.62
+5409,Europe & Central Asia,Uzbekistan,UZB,Female, ,5.9,6.3,4.8,4.7,4.7,4.9,5,5,5.6, ,12.8, 
+5410,Europe & Central Asia,Uzbekistan,UZB,Male, ,4.3,4.6,5.1,5,5,5.2,5.3,5.3,6, ,6, 
+5435,East Asia & Pacific,Vanuatu,VUT,Female, ,5.15,1.57, , , , , , , , , , 
+5436,East Asia & Pacific,Vanuatu,VUT,Male, ,4.11,2.08, , , , , , , , , , 
+5461,Latin America & Caribbean,"Venezuela, RB",VEN,Female,6.22,5.96,6.95,7.21,7.11,8.600000381, , ,5.41,5.84, , , 
+5462,Latin America & Caribbean,"Venezuela, RB",VEN,Male,6.26,6.18,7.22,6.7,6.27,6.829999924, , ,5.26,4.5, , , 
+5487,East Asia & Pacific,Vietnam,VNM,Female, ,1.58,1.08,0.9,0.93,1.14,1.11,1.71,1.7,1.7,1.03,2.01,2.83
+5488,East Asia & Pacific,Vietnam,VNM,Male, ,1.89,1.15,1.09,1.12,1.48,1.4,1.98,1.99,2.03,1.28,2.07,2.01
+5513,Latin America & Caribbean,Virgin Islands (U.S.),VIR,Female, , , , , , , , , , , , , 
+5514,Latin America & Caribbean,Virgin Islands (U.S.),VIR,Male, , , , , , , , , , , , , 
+5539,Middle East & North Africa,West Bank and Gaza,PSE,Female,19.53,20.11,21.56,22.44,26.03,27.43,26.16,34.32,37.97,42.83,41.9,41.19,40.07
+5540,Middle East & North Africa,West Bank and Gaza,PSE,Male,23.67,20.53,21.39,16.5,17.61,18.19,19.2,20.2,20.58,21.53,22.42,21.35,22.48
+5565,Middle East & North Africa,"Yemen, Rep.",YEM,Female,40.88,40.23,54.71, , , ,26.13, , , , , , 
+5566,Middle East & North Africa,"Yemen, Rep.",YEM,Male,11.54,11.27,12.43, , , ,12.34, , , , , , 
+5591,Sub-Saharan Africa,Zambia,ZMB,Female,7.71, , , , , , , , ,12.73,13.5,13.18, 
+5592,Sub-Saharan Africa,Zambia,ZMB,Male,8.14, , , , , , , , ,10.88,11.06,12.07, 
+5617,Sub-Saharan Africa,Zimbabwe,ZWE,Female, , , ,5.99, , ,5.18, , , , ,17.9, 
+5618,Sub-Saharan Africa,Zimbabwe,ZWE,Male, , , ,4.73, , ,4.36, , , , ,16.04, 
